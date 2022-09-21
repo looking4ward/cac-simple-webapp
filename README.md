@@ -8,9 +8,11 @@ Read [here](https://tecadmin.net/install-latest-nodejs-npm-on-ubuntu/) how to in
 
 ## How to install
 Clone this repository to the server:
+You can checkout other branches using the --branch <name of branch> parameter
+See: https://www.freecodecamp.org/news/git-clone-branch-how-to-clone-a-specific-branch/
 ```
  $ git clone https://github.com/TimothySealy/cac-simple-webapp.git
- $ cd cac-simple-webapp
+  $ cd cac-simple-webapp
 ```
 Install dependencies (once) and then run the application:
 ```
