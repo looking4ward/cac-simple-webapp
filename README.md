@@ -5,6 +5,9 @@ hostname of the server and the current time.
 ## Prerequisites
 The server running the application should have NodeJS (8.x) installed.
 Read [here](https://tecadmin.net/install-latest-nodejs-npm-on-ubuntu/) how to install NodeJS on Ubuntu.
+Read [here](https://techviewleo.com/how-to-install-mongodb-on-amazon-linux/) how to install NodeJS on Amazon Linux 2.
+
+
 
 ## How to install
 Clone this repository to the server:
