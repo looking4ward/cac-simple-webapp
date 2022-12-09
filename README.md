@@ -27,4 +27,5 @@ For example:
 ```
 
 Test the example using a web browser on localhost.
-Visit:  http://localhost:3000 
+
+Visit webpage:  http://localhost:3000 
