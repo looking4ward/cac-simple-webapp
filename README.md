@@ -25,3 +25,6 @@ For example:
 ```
  $ export PORT=80
 ```
+
+Test the example using a web browser on localhost.
+Visit:  http://localhost:3000 
